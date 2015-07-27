@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>23DA0F9D-5212-4726-9E7F-AF5671B0A8FB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>城市选择</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1A23D846501360AD7F656EC69F38468307ACDAE5</key>
+		<string>https://github.com/hellocoffeeman/githubDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>城市选择/城市选择.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1A23D846501360AD7F656EC69F38468307ACDAE5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hellocoffeeman/githubDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1A23D846501360AD7F656EC69F38468307ACDAE5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1A23D846501360AD7F656EC69F38468307ACDAE5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
